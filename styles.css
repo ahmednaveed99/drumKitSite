@@ -25,23 +25,23 @@ footer {
 }
 
 .s {
-  background-image: url("/Users/Ahmed/Desktop/web development/DrumKit-Site/images/snare.png");
+  background-image: url("images/snare.png");
 }
 
 .d {
-  background-image: url("/Users/Ahmed/Desktop/web development/DrumKit-Site/images/tom1.png");
+  background-image: url("images/tom1.png");
 }
 
 .j {
-  background-image: url("/Users/Ahmed/Desktop/web development/DrumKit-Site/images/tom2.png");
+  background-image: url("images/tom2.png");
 }
 
 .k {
-  background-image: url("/Users/Ahmed/Desktop/web development/DrumKit-Site/images/tom3.png");
+  background-image: url("images/tom3.png");
 }
 
 .l {
-  background-image: url("/Users/Ahmed/Desktop/web development/DrumKit-Site/images/tom4.png");
+  background-image: url("images/tom4.png");
 }
 
 .set {
